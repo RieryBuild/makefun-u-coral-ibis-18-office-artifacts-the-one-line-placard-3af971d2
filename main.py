@@ -8,7 +8,7 @@ an ancient artifact of the Rite of Filing. The sealed gate requires
 
 import os
 
-LINE = "Hole Punch, c. 1998. Pressed steel. The Rite of Filing: supplicants wounded documents in triplicate and left them to bleed in the archive."
+LINE = "Hole Punch, c. 1998. Pressed steel, gift of the filing clerks. The Rite of Filing: supplicants pierced documents in triplicate for the archive."
 
 
 def main():
