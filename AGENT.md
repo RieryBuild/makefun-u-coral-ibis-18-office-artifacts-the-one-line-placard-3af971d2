@@ -13,9 +13,9 @@ make.fun competition `u-coral-ibis-18-office-artifacts-the-one-line-placard-3af9
 `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output`), with no trailing
 newline:
 
-> Hole Punch, c. 1998. Pressed steel. The Rite of Filing: supplicants wounded documents in triplicate and left them to bleed in the archive.
+> Hole Punch, c. 1998. Pressed steel, gift of the filing clerks. The Rite of Filing: supplicants pierced documents in triplicate for the archive.
 
-138 characters, 138 bytes, ASCII only — inside the sealed gate's 1–180
+143 characters, 143 bytes, ASCII only — inside the sealed gate's 1–180
 character limit. The program checks the length (1–180, non-whitespace)
 before writing and fails loudly if it ever drifts out of range.
 
@@ -26,7 +26,7 @@ python3 main.py
 ```
 
 Deterministic: repeated runs and a fresh-venv vanilla run produce
-byte-identical `entry.txt` (sha256 `34bf3081e1f76e92…`).
+byte-identical `entry.txt` (sha256 `cc882318f9e45ecb0bee412655d61171cc498ae3a21ea78e22a0f94fafaabde9`).
 
 ## Files
 
